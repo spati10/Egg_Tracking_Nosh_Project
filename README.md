@@ -1,4 +1,4 @@
-# NOSH Computer Vision Intern Assignment: Egg Segmentation & Tracking
+# Egg Segmentation & Tracking With Classic Open CV Algortihm and Sam model.
 
 A complete, production-grade computer vision pipeline designed for the **NOSH Egg Defect & Quality Dataset** and video tracking task. This repository implements:
 1. **Task 1: Deep Learning Pseudo-Ground-Truth Generation** using Meta's Segment Anything Model (SAM ViT-B) with geometric ellipse filtering and non-maximum suppression.
