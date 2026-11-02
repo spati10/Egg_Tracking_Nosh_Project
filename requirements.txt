@@ -1,0 +1,11 @@
+numpy
+opencv-python
+scipy
+matplotlib
+pandas
+tqdm
+torch
+torchvision
+git+https://github.com/facebookresearch/segment-anything.git
+yt-dlp
+reportlab

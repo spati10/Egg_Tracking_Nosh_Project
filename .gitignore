@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and environments
+.pytest_cache/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.env
+
+# Model checkpoints & large weights
+checkpoints/
+*.pth
+*.pt
+*.onnx
+
+# Dataset
+data/
+
+# Video outputs (uploaded to Google Drive per submission guidelines)
+outputs/video/*.mp4
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Exclude old generated PDF (use NOSH_CV_Intern_Report_Human.pdf)
+experiments/NOSH_CV_Intern_Report.pdf
